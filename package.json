@@ -1,0 +1,47 @@
+{
+  "name": "api-hub-edgeone-pages",
+  "version": "1.0.0",
+  "description": "EdgeOne Pages API 代理服务 - 一站式多平台API代理解决方案",
+  "type": "module",
+  "scripts": {
+    "dev": "edgeone pages dev",
+    "dev:functions": "edgeone pages dev --functions-only",
+    "build": "echo 'Build completed for EdgeOne Pages'",
+    "start": "echo 'Use EdgeOne Pages deployment'",
+    "deploy": "edgeone pages deploy"
+  },
+  "keywords": [
+    "api-proxy",
+    "edgeone-pages",
+    "telegram",
+    "openai",
+    "gemini",
+    "claude",
+    "grok",
+    "serverless"
+  ],
+  "author": "KK",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/api-hub-edgeone-pages"
+  },
+  "edgeone": {
+    "compatibility_date": "2025-09-25",
+    "compatibility_flags": ["nodejs_compat"],
+    "node_functions": {
+      "enabled": true,
+      "runtime": "nodejs"
+    },
+    "edge_functions": {
+      "enabled": false
+    }
+  }
+}
