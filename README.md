@@ -147,12 +147,12 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 **KK**
 GitHub: [@ImKK666](https://github.com/ImKK666)
-项目地址: [edgeone-api-hub](https://github.com/ImKK666/edgeone-api-hub)
 
 ## ⭐ 支持项目
 
 如果这个项目对你有帮助，请给个 Star ⭐！
 
 ---
+
 
 *基于腾讯云 EdgeOne Pages 构建 | 全球加速访问 | 高可用保障*
